@@ -29,5 +29,5 @@
 
 1. انسخ ملفات المشروع إلى مجلد محلي:
    ```bash
-   git clone https://github.com/AL-MHIB/xss_site_scanner.git
-   cd xss_site_scanner
+   git clone https://github.com/AL-MHIB/xss_site.git
+   cd xss_site
