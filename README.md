@@ -19,3 +19,8 @@
 1. تأكد من وجود Python 3.10 أو أحدث:
    ```bash
    python --version
+2 ثبّت المكتبات المطلوبة:
+pip install -r requirements.txt
+3 شغل الادة:
+
+python xss_site_scanner.py
